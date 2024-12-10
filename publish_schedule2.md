@@ -1,4 +1,4 @@
-# Publish and View Schedule
+# Publish and View Schedule with minimal code
 
 ## Description
 This use case covers the workflow for publishing a schedule and then viewing it.
@@ -53,8 +53,7 @@ This use case covers the workflow for publishing a schedule and then viewing it.
 - The published schedule should be viewable and match the data from the CSV file.
 
 ## Diagrams and Screenshots
-- **Flow Diagram**: Visualize the workflow.
-- **Screenshots**: Illustrate key steps.
+Some useful diagrams
 
 ## Best Practices
 - **Code Organization**: Ensure reusable page object models.
