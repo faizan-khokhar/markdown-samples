@@ -1,5 +1,5 @@
 
-# Publish and View Schedule
+# Publish and View Schedule with detailed code
 
 ## Description
 This use case covers the workflow for publishing a schedule and then viewing it. It involves selecting a provider and facility from dropdowns, publishing the schedule, and then verifying the published schedule.
@@ -60,8 +60,7 @@ This use case covers the workflow for publishing a schedule and then viewing it.
 
 ## Diagrams and Screenshots
 
--   **Flow Diagram**: Include a diagram showing the workflow from navigating to the publish schedule page, selecting provider and facility, publishing the schedule, and viewing the schedule.
--   **Screenshots**: Add screenshots of the publish schedule page, the dropdowns for provider and facility, and the view schedule page.
+Might add the flowchart or screenshot of UI here in future
 
 ## Best Practices
 
